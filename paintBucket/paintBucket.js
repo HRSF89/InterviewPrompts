@@ -20,5 +20,5 @@
    
    
 // Test
-var image = [ [ 'pink', 'pink', 'red'], [ 'pink', 'blue', 'pink'], [ 'pink', 'pink', 'pink']];
-console.log(paintBucket(image, 0, 0, "blue")); // [ [ 'blue', 'blue', 'red'], [ 'blue', 'blue', 'blue'], [ 'blue', 'blue', 'blue']];
+var paintImage = [ [ 'pink', 'pink', 'red'], [ 'pink', 'blue', 'pink'], [ 'pink', 'pink', 'pink']];
+console.log(paintBucket(paintImage, 0, 0, "blue")); // [ [ 'blue', 'blue', 'red'], [ 'blue', 'blue', 'blue'], [ 'blue', 'blue', 'blue']];
