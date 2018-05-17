@@ -10,7 +10,7 @@ If you would like to contribute more interview prompts to this repo please do th
 - Add a Solutions folder (i.e. ./deleteTelephoneContacts/Solutions/)
   - note at this time you are not required to add a solution to this prompt
 - Add any other files needed for this prompt
-- Commit any new changes with the final note `add [name of folder] to repo` (i.e. add deleteTelephoneContacts to repo)
+- Commit any new changes with the final commit being: `add [name of folder] to repo` (i.e. add deleteTelephoneContacts to repo)
 - then `git push` 
 - from the repo select `Pull Request` and then create a `New pull request`.
   - Have the title be the name of the new branch
@@ -27,7 +27,7 @@ You may add working solutions to each of the file promts if you so choose.
 - Add your solution.js to the folder 
   - please label the solution file yourLastNameNameOfPrompt.js (i.e. frolliDeleteTelephoneContacts.js)
   - this is incase more then one person wants to share their solution. 
-- Commit any new changes with the note `add [name of folder] to solutions` (i.e. add frollideleteTelephoneContacts to solutions folder)
+- Commit any new changes with the final commit: `add [name of folder] to solutions` (i.e. add frollideleteTelephoneContacts to solutions)
 - then `git push` 
 - from the repo select `Pull Request` and then create a `New pull request`.
   - Have the title be the name of the new branch
@@ -44,11 +44,12 @@ To check if there are new prompts and solutions you will have to sync your versi
 
 - Navigate inside of the InterviewPrompts folder on your local computer. 
 - Then in the terminal copy and past the following:
+
 `git remote add upstream https://github.com/HRSF89/InterviewPrompts.git`
 
 After you have done the above. Any time you want to update your repo run the following comands in the terminal.
-`git checkout master   // this will switch you to your fork's master branch if you are not already on it
-git pull upstream master // this will pull any new material to your local computer`
+- `git checkout master   // this will switch you to your fork's master branch`
+- `git pull upstream master // this will pull any new material to your local computer`
 
 
 
