@@ -10,14 +10,14 @@ If you would like to contribute more interview prompts to this repo please do th
 - Add a Solutions folder (i.e. ./deleteTelephoneContacts/Solutions/)
   - note at this time you are not required to add a solution to this prompt
 - Add any other files needed for this prompt
-- Commit any new changes with the final note "add [name of folder] to repo" (i.e. add deleteTelephoneContacts to repo)
+- Commit any new changes with the final note `add [name of folder] to repo` (i.e. add deleteTelephoneContacts to repo)
 - then `git push` 
 - from the repo select `Pull Request` and then create a `New pull request`.
   - Have the title be the name of the new branch
   - And in the message use: `@EvaFro Could you please approve this new prompt?`
 - Click `Send pull request`
 
-**Note that the pull request is just to make sure that your prompt is not missing any key features and is understandable. **
+**Note that the pull request is just to make sure that your prompt is not missing any key features and is understandable.**
 
 ## Add a Working solution
 You may add working solutions to each of the file promts if you so choose.
@@ -27,14 +27,14 @@ You may add working solutions to each of the file promts if you so choose.
 - Add your solution.js to the folder 
   - please label the solution file yourLastNameNameOfPrompt.js (i.e. frolliDeleteTelephoneContacts.js)
   - this is incase more then one person wants to share their solution. 
-- Commit any new changes with the note "add [name of folder] to solutions" (i.e. add frollideleteTelephoneContacts to solutions folder)
+- Commit any new changes with the note `add [name of folder] to solutions` (i.e. add frollideleteTelephoneContacts to solutions folder)
 - then `git push` 
 - from the repo select `Pull Request` and then create a `New pull request`.
   - Have the title be the name of the new branch
   - And in the message use: `@EvaFro Could you please approve this new solution?`
 - Click `Send pull request` 
 
-**Note that the pull request is just to make sure that your solution is not missing any key features and is understandable. **
+**Note that the pull request is just to make sure that your solution is not missing any key features and is understandable.**
 
 ## Getting a Copy of the Repo to practice with
 If you haven't already, **please fork** the repository on GitHub and clone your newly created repo down to your computer. 
