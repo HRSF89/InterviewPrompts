@@ -32,7 +32,7 @@ You may add working solutions to each of the file promts if you so choose.
 - Add your solution.js to the folder 
   - please label the solution file yourLastNameNameOfPrompt.js 
   - Ex. frolliDeleteTelephoneContacts.js
-  - this is incase more then one person wants to share their solution. 
+  -  **Please make sure that you only commit a working solution to the repo**
 - Commit any new changes with the final commit: `add [name of folder] to solutions` 
   - Ex. add frollideleteTelephoneContacts to solutions
 - then `git push -u origin feat/nameOfPrompt` 
